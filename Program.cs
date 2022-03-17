@@ -10,3 +10,4 @@ namespace ConsoleApp12
         }
     }
 }
+//Veselko Vi ste kralj
